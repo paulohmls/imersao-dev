@@ -6,3 +6,7 @@ Instruções abaixo.
 
 Informação nova:
 Sorteio!!!
+
+Teste
+
+Alterando arquivo.
